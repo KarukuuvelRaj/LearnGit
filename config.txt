@@ -1,1 +1,2 @@
 DB_HOST=prod-server
+DB_HOST=staging-server
